@@ -17,6 +17,7 @@ public class Week2 {
         // TODO code application logic here
         //ddffgg
         System.out.println("ggkkjj");
+        System.out.println("");
     }
     
 }
